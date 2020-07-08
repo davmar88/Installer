@@ -1,0 +1,4 @@
+Vodacom_earfcn.txt
+CellC_earfcn.txt
+MTN_earfcn.txt
+Telkom_earfcn.txt

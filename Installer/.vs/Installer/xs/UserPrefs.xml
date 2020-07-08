@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{4128DD9F-1E6F-4221-8B03-C7307CEDFEA0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Installer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Installer/Tower_form.cs">
+    <Files>
+      <File FileName="Installer/App.config" Line="1" Column="1" />
+      <File FileName="Installer/DatabaseContext.cs" Line="16" Column="1" />
+      <File FileName="Installer/Operator.cs" Line="26" Column="6" />
+      <File FileName="Installer/Tower_form.cs" Line="431" Column="1" />
+      <File FileName="Installer/Network_form.cs" Line="115" Column="78" />
+      <File FileName="Installer/Country_form.cs" Line="1" Column="1" />
+      <File FileName="Installer/Login_form.cs" Line="208" Column="1" />
+      <File FileName="Installer/Choice_form.Designer.cs" Line="13" Column="108" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Installer" expanded="True">
+            <Node name="Installer" expanded="True">
+              <Node name="Choice_form.cs" expanded="True" />
+              <Node name="Tower_form.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/marietjie/Projects/Installer/Installer/Login_form.cs" relfile="Installer/Login_form.cs" line="157" column="1" />
+      <Breakpoint file="/home/marietjie/Projects/Installer/Installer/Login_form.cs" relfile="Installer/Login_form.cs" line="201" column="1" />
+      <Breakpoint file="/home/marietjie/Projects/Installer/Installer/Login_form.cs" relfile="Installer/Login_form.cs" line="161" column="1" />
+      <Breakpoint file="/home/marietjie/Projects/Installer/Installer/Tower_form.cs" relfile="Installer/Tower_form.cs" line="413" column="1" />
+      <Breakpoint file="/home/marietjie/Projects/Installer/Installer/Tower_form.cs" relfile="Installer/Tower_form.cs" line="397" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

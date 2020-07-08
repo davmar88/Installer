@@ -1,0 +1,6 @@
+cellid:345
+mcc:655
+mnc:7
+lac:211
+brand:CellC
+imsioperator:CellC

@@ -1,0 +1,8 @@
+timerseconds:60
+long:28.200579
+lat:-25.7241602
+country:ZA
+boxuniqueid:client-0
+username:12345
+password:password123
+token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InVuaXF1ZW9wYXF1ZWlkIiwibmJmIjoxNTg4MjUwMzM0LCJleHAiOjE2MDQwNjE1MzQsImlhdCI6MTU4ODI1MDMzNH0.ancYWsVPWEmfda1fPAjjMQs30uczbTNnTR8c7aEe_TQ

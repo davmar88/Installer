@@ -1,0 +1,6 @@
+cellid:161
+mcc:655
+mnc:10
+lac:27008
+brand:MTN
+imsioperator:MTN
